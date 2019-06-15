@@ -1,0 +1,30 @@
+{
+    "batch_size": 32,
+    "center_win": false,
+    "classes": [
+        "keys",
+        "none",
+        "paper",
+        "whistle"
+    ],
+    "colormap": "magma",
+    "epochs": 20,
+    "equalize": false,
+    "feature_type": "mel",
+    "fmax": 20000,
+    "fmin": 200,
+    "full_spec": false,
+    "hop_length": 500,
+    "magnitude": "dB",
+    "n_fft": 1000,
+    "n_freq_bins": 64,
+    "n_samples": 187290,
+    "n_time_bins": 48,
+    "optimizer": "adam",
+    "spec_hop_length": 4,
+    "standardize": false,
+    "steps_per_epoch": 512,
+    "target_sr": 48000,
+    "trim_silence": false,
+    "win_length": 1000
+}
