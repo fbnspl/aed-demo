@@ -9,7 +9,6 @@ import matplotlib.pyplot as plt
 
 from keras import models
 from utils_analysis import stft, melspectrogram, power_to_db
-from aimAnalysisLib.features import calc_specs
 
 
 # CONFIGS #####################################################################
