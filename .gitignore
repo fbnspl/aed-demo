@@ -1,2 +1,5 @@
 # ignore osx files
 *.DS_Store
+
+# ignore pycache
+__pycache__/
