@@ -10,5 +10,5 @@ pip install -r requirements.txt
 python3 demo.py
 
 ## notes
-Only works in a quiet environment, no background noise or other source separation methods implemented
-Uses your default sound device to record audio
+Only works in a quiet environment, no background noise or other source separation methods implemented.
+Uses your default sound device to record audio.
