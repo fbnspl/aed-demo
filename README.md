@@ -4,7 +4,11 @@ Demonstrator and visualization for real time prediction of audio stream with pyt
 Network was trained on 4 classes: key chain rattle [keys], quiet background noise [none], paper crumble [paper], whistling [whistle] 
 
 ## install
-make sure you have installed all necessary packages
+Make sure you have installed all necessary packages
 
 ## usage
 python3 demo.py
+
+## notes
+Only works in a quiet environment, no background noise or other source separation methods implemented
+Uses your default sound device to record audio
